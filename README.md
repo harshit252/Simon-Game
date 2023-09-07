@@ -1,3 +1,3 @@
 # Simon-Game
 How to play?
-https://www.wikihow.com/Play-Simon-Says
+https://en.wikipedia.org/wiki/Simon_(game)
